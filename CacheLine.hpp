@@ -23,6 +23,7 @@ class CacheLine
     void setWidth();
     
     friend class Cache;
+    friend class Controller;
 public:
     void invalidate();
     CacheLine(Cache* ptr_frame=NULL);
