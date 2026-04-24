@@ -300,6 +300,3 @@ Requires C++17 or later. No external dependencies.
 
 ---
 
-## License
-
-MIT
